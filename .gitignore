@@ -1,0 +1,7 @@
+venv
+*.pickle
+*.png
+*.pdf
+*.svg
+*.pyc
+*.pyc
